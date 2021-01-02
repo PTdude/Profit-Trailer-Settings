@@ -1,6 +1,6 @@
-# PT-Settings
+# Profit Trailer Settings
 
-PT used to have a collection of different settings to choose from but they were removed.
+Profit Trailer used to have a collection of different settings to choose from but they were removed.
 
 The team thinks their mission is to force users to learn technical analysis before using their bot.
 
