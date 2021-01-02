@@ -2,7 +2,7 @@
 
 PT used to have a collection of different settings to choose from but they were removed.
 
-For some reason the team thinks their mission is to force users to learn technical analysis before using their bot, instead of making an easy to use product that appeals to new traders.
+For some reason the team thinks their mission is to force users to learn technical analysis before using their bot.
 
 Here are some of the old settings to choose from that used to be included.
 
