@@ -1,7 +1,6 @@
 # Profit Trailer Settings
 
 Profit Trailer used to have a collection of different settings to choose from but they were removed because they were out of date.
-
 These are some of the old settings that used to be included.  [Here](https://github.com/PTdude/Profit-Trailer-Settings/releases/tag/1) is a zip file with all of them.
 
 ## **WARNING**<br>
