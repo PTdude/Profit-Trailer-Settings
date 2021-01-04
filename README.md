@@ -5,7 +5,7 @@ These are some of the old settings that used to be included.  [Here](https://git
 
 ## **WARNING**<br>
 Not all of these settings will work anymore because PT has changed a lot.  Some of the code in these settings may be broken or deprecated.<br><br>
-**DO NOT just copy and paste these and expect them to work!**  
-Use them as examples to study and modify and learn what PT can do.
+**DO NOT expect them to work!**  
+Use them to study and learn what PT can do.
 
 
